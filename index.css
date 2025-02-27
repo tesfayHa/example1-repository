@@ -1,0 +1,18 @@
+body{
+    background-color:greenyellow;
+}
+p{
+    font-size: 30px;
+    color: green;
+}
+table ,tr, td{
+    border-collapse: collapse;
+    border-radius:1px ;
+    border-style:solid;
+    border-color:red;
+    border-width: 5px;
+} 
+td,th {
+padding: 10px;
+margin: 5px;
+}
